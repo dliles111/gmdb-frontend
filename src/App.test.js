@@ -10,4 +10,4 @@ import {shallow} from 'enzyme'
 //   // wrapper.update()
 //   // expect(wrapper.state().loginNavBar).toBeFalsy()
 //   // expect(wrapper.exists('#registrationForm')).toEqual(false)
-// })
+// })   
